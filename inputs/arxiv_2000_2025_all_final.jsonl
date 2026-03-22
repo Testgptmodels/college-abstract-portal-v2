@@ -1,102 +1,19 @@
-{"uuid": "ee01f6dc-2ce0-4442-b7a9-5293c3433bca", "id": 225, "source": "arXiv/2002", "title": "Common transversals and tangents to two lines and two quadrics in P^3"}
-{"uuid": "d1482146-b62b-4381-b13c-c5cf0efcd915", "id": 405, "source": "arXiv/2004", "title": "The state complexity of L^2 and L^k"}
-{"uuid": "3c518312-3678-4e5b-ab2c-5f550769ee1b", "id": 548, "source": "arXiv/2005", "title": "Points on Computable Curves"}
-{"uuid": "405dfa1e-499b-4930-b89b-059b71aee395", "id": 822, "source": "arXiv/2006", "title": "The Dichotomy of Conjunctive Queries on Probabilistic Structures"}
-{"uuid": "8874aaa1-07e0-450d-a5dc-0dcf25e6a06a", "id": 851, "source": "arXiv/2006", "title": "Data in the ADS -- Understanding How to Use it Better"}
-{"uuid": "b7cd4ebf-e389-43a6-a8cd-243c86192fbc", "id": 1202, "source": "arXiv/2007", "title": "Plot 94 in ambiance X-Window"}
-{"uuid": "0147a12e-3502-4249-9898-e03cf4eef4cd", "id": 1443, "source": "arXiv/2008", "title": "Inapproximability for metric embeddings into R^d"}
-{"uuid": "28ea85de-6036-4d57-a886-b22295ae93df", "id": 1447, "source": "arXiv/2008", "title": "Line Transversals of Convex Polyhedra in $\\reals^3$"}
-{"uuid": "126eb0fc-cfe6-4a6f-85fe-adb77c7cd668", "id": 1449, "source": "arXiv/2008", "title": "Hardness of embedding simplicial complexes in $\\R^d$"}
-{"uuid": "c920780d-2f43-47e9-8fa2-10074e9f99a2", "id": 1450, "source": "arXiv/2008", "title": "On stars and Steiner stars. II"}
-{"uuid": "e1cc1254-4711-40a9-804d-44bd61c7ba75", "id": 1483, "source": "arXiv/2008", "title": "Quantifying Homology Classes"}
-{"uuid": "ddcfd04c-5b64-4c88-9c21-e7faba36b46d", "id": 1850, "source": "arXiv/2009", "title": "Succinct Representation of Well-Spaced Point Clouds"}
-{"uuid": "af7d7324-ef50-4fd6-b32a-6258f72dd9be", "id": 2571, "source": "arXiv/2010", "title": "Pseudorandom generators and the BQP vs. PH problem"}
-{"uuid": "a899ab68-1899-47ff-9222-cb921af2839c", "id": 2682, "source": "arXiv/2010", "title": "An Optimized Data Structure for High Throughput 3D Proteomics Data: mzRTree"}
-{"uuid": "edbbec42-793d-4fa0-b7b2-f39606599253", "id": 2894, "source": "arXiv/2010", "title": "Multidimensi Pada Data Warehouse Dengan Menggunakan Rumus Kombinasi"}
-{"uuid": "da740234-c5c4-4fde-a918-32dd8a79cd48", "id": 2898, "source": "arXiv/2010", "title": "Tata Kelola Database Perguruan Tinggi Yang Optimal Dengan Data Warehouse"}
-{"uuid": "e786d3b5-00e1-4168-bcec-e3ae950cf3a5", "id": 2921, "source": "arXiv/2010", "title": "Algèbre OLAP et langage graphique"}
-{"uuid": "5826546b-13fb-4427-842f-000c1b42a920", "id": 2924, "source": "arXiv/2010", "title": "Personnalisation de Systèmes OLAP Annotés"}
-{"uuid": "323edcbc-c785-4e7e-bb57-0e89a91b30a5", "id": 2926, "source": "arXiv/2010", "title": "Symmetric M-tree"}
-{"uuid": "004539e9-6cbf-4930-9ad2-59179966ee4f", "id": 3378, "source": "arXiv/2010", "title": "Analysis of Boolean Equation Systems through Structure Graphs"}
-{"uuid": "ffb9e2ae-87dc-4267-a1dc-33c42a3da69a", "id": 3751, "source": "arXiv/2011", "title": "The complexity of conservative valued CSPs"}
-{"uuid": "cba89337-a4ea-403b-8dca-c43f4cf4d383", "id": 3790, "source": "arXiv/2011", "title": "Structure from Local Optima: Learning Subspace Juntas via Higher Order PCA"}
-{"uuid": "a8310479-bdc6-4a9b-85bd-f2718b13890f", "id": 3805, "source": "arXiv/2011", "title": "Lower Bounds for Number-in-Hand Multiparty Communication Complexity, Made Easy"}
-{"uuid": "34bddb8e-b3ef-4dda-9262-724043248d7d", "id": 4402, "source": "arXiv/2011", "title": "Mapping excellence in the geography of science: An approach based on Scopus data"}
-{"uuid": "94ee7c14-a06d-49f7-a09a-6f4f22f0fed5", "id": 4667, "source": "arXiv/2011", "title": "On primary and secondary repetitions in words"}
-{"uuid": "782cef78-9870-4d78-a9c1-31a83a28c375", "id": 4668, "source": "arXiv/2011", "title": "Algorithms for computing the greatest simulations and bisimulations between fuzzy automata"}
-{"uuid": "97f7736d-9afa-421e-99e3-c859267b2c37", "id": 5015, "source": "arXiv/2011", "title": "The Ten Thousand Kims"}
-{"uuid": "a821ef24-0076-405f-924c-70aff441f9f8", "id": 5204, "source": "arXiv/2012", "title": "LOCKE Detailed Specification Tables"}
-{"uuid": "98440160-52cd-453f-8159-f4368d73962d", "id": 5336, "source": "arXiv/2012", "title": "Improved Inapproximability for TSP"}
-{"uuid": "ef2f6e84-bab3-49ac-ad54-2ca6a4df05b3", "id": 5410, "source": "arXiv/2012", "title": "Report on \"Mathematical Aspects of P vs. NP and its Variants.\""}
-{"uuid": "e1540b5d-ea09-453e-85cc-45ba22213966", "id": 6151, "source": "arXiv/2012", "title": "Socializing the h-index"}
-{"uuid": "20428fca-d78b-4767-a9ac-8e1851770c42", "id": 7535, "source": "arXiv/2013", "title": "Predictive Comparative QSAR Analysis Of As 5-Nitofuran-2-YL Derivatives Myco bacterium tuberculosis H37RV Inhibitors Bacterium Tuberculosis H37RV Inhibitors"}
-{"uuid": "d89b33d6-cc5d-4cb3-8f91-bb235025f45a", "id": 7904, "source": "arXiv/2013", "title": "Extendability of continuous maps is undecidable"}
-{"uuid": "a098f720-da5a-4e1c-9ceb-af336e89928b", "id": 7959, "source": "arXiv/2013", "title": "Making Laplacians commute"}
-{"uuid": "c58a8acc-5b5e-4491-afb4-b47d754f2296", "id": 8025, "source": "arXiv/2013", "title": "A multi-terabyte relational database for geo-tagged social network data"}
-{"uuid": "d1f43203-26a6-4aa7-8f30-fad3df5f1d65", "id": 8068, "source": "arXiv/2013", "title": "Benchmarking Summarizability Processing in XML Warehouses with Complex Hierarchies"}
-{"uuid": "05054a74-872f-4dcc-8959-fd614049a089", "id": 8325, "source": "arXiv/2013", "title": "Reviewers' ratings and bibliometric indicators: hand in hand when assessing over research proposals?"}
-{"uuid": "59150a95-b235-425f-9d39-e9a9baca7dc8", "id": 8335, "source": "arXiv/2013", "title": "arXiv e-prints and the journal of record: An analysis of roles and relationships"}
-{"uuid": "1035a5a7-746f-4d23-97ee-d4da45fced35", "id": 8369, "source": "arXiv/2013", "title": "Twenty-Five Shades of Greycite: Semantics for referencing and preservation"}
-{"uuid": "a4030ae2-8c29-4e7e-91ec-74d25780fe8e", "id": 8612, "source": "arXiv/2013", "title": "Inclusion of regular and linear languages in group languages"}
-{"uuid": "7560d27f-8240-461a-a742-a58972106849", "id": 8639, "source": "arXiv/2013", "title": "Avoiding 2-binomial squares and cubes"}
-{"uuid": "0fc54613-0c5d-4942-bf0f-7a59aac9d041", "id": 8807, "source": "arXiv/2013", "title": "Software for creating pictures in the LaTeX environment"}
-{"uuid": "28845f7f-b253-480d-b6fa-3403248e3895", "id": 8878, "source": "arXiv/2013", "title": "Multi-Stage Robust Chinese Remainder Theorem"}
-{"uuid": "6c70fca7-620f-4bd1-8112-ec1a262a9fd2", "id": 9092, "source": "arXiv/2013", "title": "Subtraction-free complexity, cluster transformations, and spanning trees"}
-{"uuid": "87fa3ea8-9510-4e34-bf86-19f233c66819", "id": 9148, "source": "arXiv/2013", "title": "Filtrations induced by continuous functions"}
-{"uuid": "9f846f42-27b4-4532-b789-abc8264004c9", "id": 9150, "source": "arXiv/2013", "title": "The Post correspondence problem in groups"}
-{"uuid": "a8a1c97d-1b37-462d-890e-710893ca6728", "id": 9153, "source": "arXiv/2013", "title": "Semigroups and one-way functions"}
-{"uuid": "627d8de7-bd1c-4a95-998d-4f33e5232bde", "id": 9166, "source": "arXiv/2013", "title": "Thinking like Archimedes with a 3D printer"}
-{"uuid": "3e129155-57a2-46dd-b741-dcf352269193", "id": 9172, "source": "arXiv/2013", "title": "A finite axiomatization of conditional independence and inclusion dependencies"}
-{"uuid": "5f6620e8-01f0-494b-89c4-86d7c9e1308a", "id": 9178, "source": "arXiv/2013", "title": "Sharpening Geometric Inequalities using Computable Symmetry Measures"}
-{"uuid": "7f916f77-2cd9-45e5-853c-dca0ced0eeeb", "id": 9180, "source": "arXiv/2013", "title": "Neighborly inscribed polytopes and Delaunay triangulations"}
-{"uuid": "1c4ad323-4af1-4f1b-a493-5d0d95e18310", "id": 9184, "source": "arXiv/2013", "title": "Extremal antipodal polygons and polytopes"}
-{"uuid": "c095ee8c-9f7f-4ec9-a0a0-b41f0f6fbfa9", "id": 9185, "source": "arXiv/2013", "title": "On the minimum FLOPs problem in the sparse Cholesky factorization"}
-{"uuid": "24e61da5-1c05-4998-8ec9-734a08720128", "id": 9191, "source": "arXiv/2013", "title": "A constructive approach to triangular trigonometric patches"}
-{"uuid": "b97e147e-f234-4f42-b3e1-65db09e468ec", "id": 9194, "source": "arXiv/2013", "title": "Optimal rate algebraic list decoding using narrow ray class fields"}
-{"uuid": "52bc55fd-c1f3-44b4-bc90-58b20331a3c0", "id": 9200, "source": "arXiv/2013", "title": "Self-concordance is NP-hard"}
-{"uuid": "f045c890-3fa3-465f-83d7-a4d49646bb99", "id": 9210, "source": "arXiv/2013", "title": "Limits of local algorithms over sparse random graphs"}
-{"uuid": "79f35ce2-b4f1-4904-8745-8d90a33168f1", "id": 9215, "source": "arXiv/2013", "title": "The state complexity of random DFAs"}
-{"uuid": "72945930-acb6-4abe-bea7-477bc05bc093", "id": 9217, "source": "arXiv/2013", "title": "A Lattice for Persistence"}
-{"uuid": "0995fda8-ddfa-4b68-b56c-807765497df7", "id": 9220, "source": "arXiv/2013", "title": "An unbiased estimate for the mean of a {0,1} random variable with relative error distribution independent of the mean"}
-{"uuid": "15f913d6-351a-4c70-91b0-54bc8ea424fc", "id": 9223, "source": "arXiv/2013", "title": "Medians of populations of persistence diagrams"}
-{"uuid": "16f5be78-36ee-4638-bd24-942addf171e0", "id": 9224, "source": "arXiv/2013", "title": "Optimal rates of convergence for persistence diagrams in Topological Data Analysis"}
-{"uuid": "c3d9d9f4-2bf1-456f-a046-4c0845479657", "id": 9238, "source": "arXiv/2013", "title": "Review of simulating four classes of window materials for daylighting with non-standard BSDF using the simulation program Radiance"}
-{"uuid": "e2c232f9-a7af-4cee-ad26-be779b5c2c45", "id": 9241, "source": "arXiv/2013", "title": "Simulating DNLS models"}
-{"uuid": "aa14502d-7c6e-45ce-b28b-6a5862d56037", "id": 9263, "source": "arXiv/2013", "title": "Is modern science evolving in the wrong direction?"}
-{"uuid": "aa6441b9-f376-4ba8-b3ec-32cf66e3cabb", "id": 9283, "source": "arXiv/2013", "title": "How important tasks are performed: peer review"}
-{"uuid": "db2c39ed-d31f-4204-9b64-6442416ad89f", "id": 9290, "source": "arXiv/2013", "title": "Do scientists trace hot topics?"}
+{"uuid": "b0072e60-ccaa-4819-bb73-af14fc26142f", "id": 136, "source": "arXiv/2002", "title": "Distance function wavelets - Part III: \"Exotic\" transforms and series"}
+{"uuid": "3cf30775-c7e6-4187-8c34-ce9bcb8a2959", "id": 454, "source": "arXiv/2004", "title": "The semijoin algebra and the guarded fragment"}
+{"uuid": "e3bbe07f-c0d8-4ddd-bb1d-70fe190e7ac0", "id": 867, "source": "arXiv/2006", "title": "GDF - A general dataformat for biosignals"}
+{"uuid": "8973eec4-dc0a-4016-ab41-db948df94ded", "id": 2895, "source": "arXiv/2010", "title": "Multidimensional Datawarehouse with Combination Formula"}
+{"uuid": "b38427cf-97b0-4ded-b87a-8055fcbb0acf", "id": 3846, "source": "arXiv/2011", "title": "Correlation Testing for Affine Invariant Properties on $\\mathbb{F}_p^n$ in the High Error Regime"}
+{"uuid": "1a161668-e98a-4949-9fc0-46f194c94c67", "id": 6830, "source": "arXiv/2012", "title": "Proceedings 8th International Workshop on Automated Specification and Verification of Web Systems"}
+{"uuid": "96b87435-c5fb-4001-aac4-78304236013c", "id": 8341, "source": "arXiv/2013", "title": "Does it Matter Which Citation Tool is Used to Compare the h-index of a Group of Highly Cited Researchers?"}
+{"uuid": "9c488ead-0b9c-45dd-8b04-e0d1a3f328db", "id": 8430, "source": "arXiv/2013", "title": "International collaboration clusters in Africa"}
+{"uuid": "fd311e66-307a-4438-ad44-746fa2511489", "id": 8548, "source": "arXiv/2013", "title": "Routing of Physarum polycephalum signals using simple chemicals"}
+{"uuid": "87ee5b92-74fd-4185-9646-fe86e8942068", "id": 8688, "source": "arXiv/2013", "title": "A representation of context-free grammars with the help of finite digraphs"}
+{"uuid": "33f59177-77c4-4b56-bd75-adfd182028bc", "id": 9099, "source": "arXiv/2013", "title": "The complexity of generalized domino tilings"}
 {"uuid": "d644c88c-3491-4ebc-a27a-b84a5ed30839", "id": 9294, "source": "arXiv/2013", "title": "How to derive an advantage from the arbitrariness of the g-index"}
-{"uuid": "396ae26f-8e8c-4f1f-91f9-7b92f99e0cf1", "id": 9359, "source": "arXiv/2013", "title": "Generation of Universal Linear Optics by Any Beamsplitter"}
-{"uuid": "96992507-558c-4aa5-a31f-bfbfebda1a75", "id": 9420, "source": "arXiv/2014", "title": "IVOA Recommendation: TAPRegExt: a VOResource Schema Extension for Describing TAP Services"}
-{"uuid": "c2e78cfa-4818-46aa-8a1c-f57f0611f72f", "id": 9444, "source": "arXiv/2014", "title": "Understanding and Designing Complex Systems: Response to \"A framework for optimal high-level descriptions in science and engineering---preliminary report\""}
-{"uuid": "30cf730c-4a70-4881-a562-196b22aaf69c", "id": 9454, "source": "arXiv/2014", "title": "Allocation in Practice"}
-{"uuid": "1cbba68c-8111-44cf-87e7-bcf7e426c37b", "id": 9455, "source": "arXiv/2014", "title": "The Complexity of Reasoning with FODD and GFODD"}
-{"uuid": "9e8976d1-4da9-4aa5-bcd4-c2636bcb6982", "id": 9510, "source": "arXiv/2014", "title": "Modeling and simulation of multiprocessor systems MPSoC by SystemC/TLM2"}
-{"uuid": "4789f69d-6cb7-44d3-8c4d-90565208f13f", "id": 9577, "source": "arXiv/2014", "title": "New Bounds for the Garden-Hose Model"}
-{"uuid": "74352a2a-f649-4c47-b61a-ec562f414c87", "id": 9593, "source": "arXiv/2014", "title": "Braid is undecidable"}
+{"uuid": "50e18794-9543-4979-9120-8962b5c92994", "id": 9388, "source": "arXiv/2013", "title": "Quantum 3-SAT is QMA1-complete"}
 {"uuid": "1d421307-9ed6-44ee-8a10-c29736ce22e6", "id": 9596, "source": "arXiv/2014", "title": "Edit Distance Cannot Be Computed in Strongly Subquadratic Time (unless SETH is false)"}
-{"uuid": "b098db91-a324-455b-8943-733247e48b0b", "id": 9597, "source": "arXiv/2014", "title": "A Characterization of hard-to-cover CSPs"}
-{"uuid": "8717bd57-bd28-41d4-8789-d51e1df85b27", "id": 9625, "source": "arXiv/2014", "title": "A Strongly Exponential Separation of DNNFs from CNF Formulas"}
 {"uuid": "473ebd58-9292-4013-b2bd-16ad64551a66", "id": 9628, "source": "arXiv/2014", "title": "PH = PSPACE"}
-{"uuid": "e4412163-41ad-4f83-82df-0ee0b9b303c2", "id": 9641, "source": "arXiv/2014", "title": "Nuclear Norm of Higher-Order Tensors"}
-{"uuid": "34d0a11c-29f6-4f3b-8e6a-60345425b18c", "id": 9644, "source": "arXiv/2014", "title": "Proof Complexity Modulo the Polynomial Hierarchy: Understanding Alternation as a Source of Hardness"}
-{"uuid": "806d2f88-a040-4a58-ab6a-61b88e229557", "id": 9645, "source": "arXiv/2014", "title": "Structural Parameterizations of the Mixed Chinese Postman Problem"}
 {"uuid": "c7ee4b65-f010-454f-8cba-d36aeb4c4b7e", "id": 9647, "source": "arXiv/2014", "title": "Gowers Norm, Function Limits, and Parameter Estimation"}
-{"uuid": "ef679981-443e-4cf5-8ea9-e40f71d24d00", "id": 9649, "source": "arXiv/2014", "title": "Mutual Dimension"}
-{"uuid": "9e2f82fc-a29b-4e28-a108-338bebc1cf72", "id": 9650, "source": "arXiv/2014", "title": "On Circuit Complexity of Parity and Majority Functions in Antichain Basis"}
-{"uuid": "8140362a-6d11-4b19-93f1-9666d93a2ae4", "id": 9651, "source": "arXiv/2014", "title": "Satisfying ternary permutation constraints by multiple linear orders or phylogenetic trees"}
 {"uuid": "10285fee-394b-45c9-960d-18076cbb35a9", "id": 9652, "source": "arXiv/2014", "title": "Squares of $3$-sun-free split graphs"}
-{"uuid": "74c0b7d9-4ed2-40ac-a36f-a1653065927e", "id": 9653, "source": "arXiv/2014", "title": "Constructive Relationships Between Algebraic Thickness and Normality"}
-{"uuid": "80efc529-67ee-454a-bdac-9f1dbdec586b", "id": 9655, "source": "arXiv/2014", "title": "The Minimum Feasible Tileset problem"}
 {"uuid": "bc66183a-bf75-40fd-b7f1-9d2514b40397", "id": 9695, "source": "arXiv/2014", "title": "Optimal Hub Labeling is NP-complete"}
-{"uuid": "d7d59887-7080-4c29-946b-b5d771f113d4", "id": 9697, "source": "arXiv/2014", "title": "On multiply-exponential write-once Turing machines"}
-{"uuid": "3df773d4-5338-4bb7-b34e-0cd05d1d5ebb", "id": 9709, "source": "arXiv/2014", "title": "On relative OR-complexity of Boolean matrices and their complements"}
-{"uuid": "42cea8d6-6faa-4472-92ac-c6db43a9d862", "id": 9710, "source": "arXiv/2014", "title": "Some upper and lower bounds on PSD-rank"}
-{"uuid": "a4020ffc-3541-4e62-aa92-d16eba0d7bc7", "id": 9712, "source": "arXiv/2014", "title": "List decoding Reed-Muller codes over small fields"}
 {"uuid": "f9ecf2b3-021d-4a60-b1ef-8b5403c8d0b2", "id": 9713, "source": "arXiv/2014", "title": "Faster polynomial multiplication over finite fields"}
-{"uuid": "38eb7c97-14b5-4076-91b9-2b7d7bdf9bba", "id": 9719, "source": "arXiv/2014", "title": "The Polyhedron-Hitting Problem"}
-{"uuid": "03800382-800e-4ceb-a78a-cd800f4e7a46", "id": 9969, "source": "arXiv/2014", "title": "High-Content Digital Microscopy with Python"}
-{"uuid": "c1a784d9-f0f7-41d1-9ca6-66df33f17262", "id": 362, "source": "arXiv/2003", "title": "Cg in Two Pages"}
-{"uuid": "4f43d360-786a-42e6-adfe-a8456ef236cf", "id": 393, "source": "arXiv/2004", "title": "Quantum Computers"}
-{"uuid": "f0fc873b-4f99-4d8f-9c99-a62f4a420610", "id": 716, "source": "arXiv/2005", "title": "New Tales of the Mean King"}
-{"uuid": "4ee856e1-1891-48ad-8947-d1e3252d839a", "id": 783, "source": "arXiv/2006", "title": "Geometric definition of a new skeletonization concept"}
