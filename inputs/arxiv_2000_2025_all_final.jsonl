@@ -1,91 +1,23 @@
-{"uuid": "a7585a67-96c0-4aeb-b811-46a8d0373a3e", "id": 24, "source": "arXiv/2000", "title": "PushPush is NP-hard in 2D"}
-{"uuid": "27ea1d25-b42a-4e62-8d43-c17a8fef6edb", "id": 25, "source": "arXiv/2000", "title": "Bezier Curves Intersection Using Relief Perspective"}
-{"uuid": "11b62d7e-324e-47a6-9fc2-b0a295bb6fcd", "id": 127, "source": "arXiv/2002", "title": "Dual reciprocity BEM and dynamic programming filter for inverse elastodynamic problems"}
-{"uuid": "dd032ac6-079c-443b-862a-01312121ad4c", "id": 133, "source": "arXiv/2002", "title": "New advances in dual reciprocity and boundary-only RBF methods"}
-{"uuid": "8905d940-8794-4cd0-96a3-510b11e288dc", "id": 138, "source": "arXiv/2002", "title": "Distance function wavelets - Part II: Extended results and conjectures"}
-{"uuid": "ac2a97a0-a6ef-4b81-9b2f-5d0538083c55", "id": 147, "source": "arXiv/2002", "title": "An Empirical Model for Volatility of Returns and Option Pricing"}
-{"uuid": "d7f5c982-f1ab-449f-816d-75153e88b3b3", "id": 192, "source": "arXiv/2002", "title": "Integration and interoperability accessing electronic information resources in science and technology: the proposal of Brazilian Digital Library"}
-{"uuid": "38c7c966-bae1-4dcc-acdf-a36e6db0917f", "id": 319, "source": "arXiv/2003", "title": "Configuration Database for BaBar On-line"}
-{"uuid": "4a7b5811-136d-4c62-bd3f-67befa44d5c0", "id": 336, "source": "arXiv/2003", "title": "Evolution: Google vs. DRIS"}
-{"uuid": "ba567408-3f66-4cff-8937-d0acfb2168fc", "id": 357, "source": "arXiv/2003", "title": "The Use of HepRep in GLAST"}
-{"uuid": "79b54e56-8138-44c4-9953-b51862d048da", "id": 359, "source": "arXiv/2003", "title": "GraXML - Modular Geometric Modeler"}
-{"uuid": "8fc8017a-cd96-48ce-92ac-af592efe7197", "id": 364, "source": "arXiv/2003", "title": "OO Model of the STAR offline production \"Event Display\" and its implementation based on Qt-ROOT"}
-{"uuid": "9b6a2276-20fb-494b-98d6-4e31f7548829", "id": 365, "source": "arXiv/2003", "title": "Using sensors in the web crawling process"}
-{"uuid": "b303afae-38a4-4cdd-9e04-d52b4a35f7c3", "id": 366, "source": "arXiv/2003", "title": "Make search become the internal function of Internet"}
-{"uuid": "ade959c3-5ccd-46a7-826a-cfd6088a26bc", "id": 369, "source": "arXiv/2003", "title": "On an explicit finite difference method for fractional diffusion equations"}
 {"uuid": "d1482146-b62b-4381-b13c-c5cf0efcd915", "id": 405, "source": "arXiv/2004", "title": "The state complexity of L^2 and L^k"}
 {"uuid": "124bbd50-8151-4a8e-9854-47421089c62a", "id": 407, "source": "arXiv/2004", "title": "The modelling of the build constructions in a CAD of the renovation of the enterprises by means of units in the drawings"}
 {"uuid": "85025a9f-8f0e-4198-b1b6-a8c67a6b308a", "id": 408, "source": "arXiv/2004", "title": "The methods of support of the requirements of the Russian standards at development of a CAD of industrial objects"}
-{"uuid": "c13428f3-03d9-44a8-b8ee-a66f7133e94c", "id": 409, "source": "arXiv/2004", "title": "The Features of the Complex CAD system of Reconstruction of the Industrial Plants"}
 {"uuid": "a90b978e-5b6c-459e-b69f-913715fe8577", "id": 410, "source": "arXiv/2004", "title": "The modular technology of development of the CAD expansions: protection of the buildings from the lightning"}
 {"uuid": "d193030b-f9f8-433c-91a1-b6b8cce66cc3", "id": 411, "source": "arXiv/2004", "title": "The modular technology of development of the CAD expansions: profiles of outside networks of water supply and water drain"}
 {"uuid": "be03f2e8-3011-4964-b87a-c4ffec0fea9a", "id": 419, "source": "arXiv/2004", "title": "Modular technology of developing of the extensions of a CAD system. Axonometric piping diagrams. Parametric representation"}
 {"uuid": "adf180a6-29e2-4c2e-9370-da1c6300cec8", "id": 420, "source": "arXiv/2004", "title": "The model of the tables in design documentation for operating with the electronic catalogs and for specifications making in a CAD system"}
 {"uuid": "a15a2d49-5683-4ebf-a0ae-e8883de0bc18", "id": 421, "source": "arXiv/2004", "title": "Modular technology of developing of the problem-oriented extensions of a CAD system of reconstruction of the plant"}
 {"uuid": "b90601a0-3637-4bf2-bd4d-46f80482d4e9", "id": 422, "source": "arXiv/2004", "title": "The modulus in the CAD system drawings as a base of developing of the problem-oriented extensions"}
-{"uuid": "dcc7fd98-1159-42ab-a204-84637afb59eb", "id": 444, "source": "arXiv/2004", "title": "Using image partitions in 4th Dimension"}
-{"uuid": "b1216470-710f-4d3a-86f9-9633ae32a6f9", "id": 458, "source": "arXiv/2004", "title": "Application of Business Intelligence In Banks (Pakistan)"}
-{"uuid": "b7eaa637-84d5-4531-8436-fba28d6e3c5d", "id": 516, "source": "arXiv/2004", "title": "Design of a Community-based Translation Center"}
-{"uuid": "2285433f-6e97-4390-896c-43f1df84d31b", "id": 522, "source": "arXiv/2004", "title": "Why Two Sexes?"}
-{"uuid": "327d56c1-7a21-4d99-859d-dcbe9f8fb5d3", "id": 523, "source": "arXiv/2004", "title": "CDTP Chain Distributed Transfer Protocol"}
-{"uuid": "24951d57-8eb3-4c24-869d-8fceb8baba78", "id": 524, "source": "arXiv/2004", "title": "Programmable Ethernet Switches and Their Applications"}
 {"uuid": "335d0097-7410-42be-942a-fc57b65d9e39", "id": 531, "source": "arXiv/2004", "title": "A note on comparison of scientific impact expressed by the number of citations in different fields of science"}
-{"uuid": "275dc3ec-6d6a-46c4-afc4-f9e7251351a4", "id": 533, "source": "arXiv/2004", "title": "The Triplet Genetic Code had a Doublet Predecessor"}
-{"uuid": "3c518312-3678-4e5b-ab2c-5f550769ee1b", "id": 548, "source": "arXiv/2005", "title": "Points on Computable Curves"}
-{"uuid": "769d953c-a720-4d1a-bd52-0d9461a16335", "id": 590, "source": "arXiv/2005", "title": "Implementation of Motzkin-Burger algorithm in Maple"}
-{"uuid": "7056bbd9-abf8-4016-af66-9307e291d2c6", "id": 592, "source": "arXiv/2005", "title": "Underwater Hacker Missile Wars: A Cryptography and Engineering Contest"}
 {"uuid": "5358d18b-26e7-47e8-8ce8-626e23ed94a7", "id": 616, "source": "arXiv/2005", "title": "Consistent query answers on numerical databases under aggregate constraints"}
-{"uuid": "23397787-1a2c-4ea0-959f-2ba899e71c26", "id": 684, "source": "arXiv/2005", "title": "Consistency Problems for Jump-Diffusion Models"}
 {"uuid": "94f7218d-a01d-4226-b1c0-d98a7deaaf22", "id": 752, "source": "arXiv/2006", "title": "Environment of development of the programs of parametric creating of the drawings in CAD-system of renovation of the enterprises"}
-{"uuid": "14728caf-5349-45bc-a2a8-aba46361cb7c", "id": 806, "source": "arXiv/2006", "title": "How To Break Anonymity of the Netflix Prize Dataset"}
-{"uuid": "405dfa1e-499b-4930-b89b-059b71aee395", "id": 822, "source": "arXiv/2006", "title": "The Dichotomy of Conjunctive Queries on Probabilistic Structures"}
-{"uuid": "8874aaa1-07e0-450d-a5dc-0dcf25e6a06a", "id": 851, "source": "arXiv/2006", "title": "Data in the ADS -- Understanding How to Use it Better"}
 {"uuid": "b9e7648c-5b75-4743-964e-006b34cfc4c2", "id": 869, "source": "arXiv/2006", "title": "Separating the articles of authors with the same name"}
-{"uuid": "f70ef14c-6df8-4191-97b7-22b17ebc21f5", "id": 902, "source": "arXiv/2006", "title": "Outlier Robust ICP for Minimizing Fractional RMSD"}
 {"uuid": "f0af4037-64fa-4c08-8020-55316488e8e8", "id": 911, "source": "arXiv/2006", "title": "eJournal interface can influence usage statistics: implications for libraries, publishers, and Project COUNTER"}
-{"uuid": "8449a46f-693a-480b-a96a-b6863543bc14", "id": 917, "source": "arXiv/2006", "title": "If a tree casts a shadow is it telling the time?"}
-{"uuid": "8cebae11-7833-49c4-a222-4c900fb68474", "id": 919, "source": "arXiv/2006", "title": "Coupling Methodology within the Software Platform Alliances"}
-{"uuid": "da5462a9-3e92-4618-8203-e2a59bb2fe3e", "id": 920, "source": "arXiv/2006", "title": "Classdesc and Graphcode: support for scientific programming in C++"}
 {"uuid": "f3b00eef-39a5-4c3c-b700-5ef698d1611f", "id": 978, "source": "arXiv/2007", "title": "The Integration of On-Line Monitoring and Reconfiguration Functions using EDAA - European design and Automation Association1149.4 Into a Safety Critical Automotive Electronic Control Unit"}
-{"uuid": "db8af958-e83e-414c-a399-1fd3eda0b85c", "id": 1015, "source": "arXiv/2007", "title": "IEEE 1149.4 Compatible ABMs for Basic RF Measurements"}
-{"uuid": "a3e25074-be83-4595-871e-6767887748aa", "id": 1072, "source": "arXiv/2007", "title": "Frequency Analysis of Decoupling Capacitors for Three Voltage Supplies in SoC"}
-{"uuid": "945682aa-20d6-416f-b032-a4bfbd7fadaf", "id": 1182, "source": "arXiv/2007", "title": "The periodic domino problem is undecidable in the hyperbolic plane"}
-{"uuid": "89a2586a-74ab-4f93-9cd4-398475ea6bdc", "id": 1436, "source": "arXiv/2008", "title": "Characterizing graphs with convex and connected configuration spaces"}
-{"uuid": "43c24892-9b42-4351-b970-2763411dc2ca", "id": 1437, "source": "arXiv/2008", "title": "Communication-Efficient Construction of the Plane Localized Delaunay Graph"}
-{"uuid": "f09dfe41-66bd-4a9f-b50f-738be1a0c991", "id": 1439, "source": "arXiv/2008", "title": "Approximating the volume of unions and intersections of high-dimensional geometric objects"}
-{"uuid": "0147a12e-3502-4249-9898-e03cf4eef4cd", "id": 1443, "source": "arXiv/2008", "title": "Inapproximability for metric embeddings into R^d"}
 {"uuid": "28ea85de-6036-4d57-a886-b22295ae93df", "id": 1447, "source": "arXiv/2008", "title": "Line Transversals of Convex Polyhedra in $\\reals^3$"}
-{"uuid": "0fb90e09-fb2e-4266-865a-1fcb48c60573", "id": 1451, "source": "arXiv/2008", "title": "Locality and Bounding-Box Quality of Two-Dimensional Space-Filling Curves"}
-{"uuid": "3908987f-719e-47e9-9f9c-6b5d3b8f7ebc", "id": 1452, "source": "arXiv/2008", "title": "An Efficient Algorithm for 2D Euclidean 2-Center with Outliers"}
-{"uuid": "f5ebafe1-b163-4f66-ac43-351b23be0fa6", "id": 1454, "source": "arXiv/2008", "title": "Biased Range Trees"}
-{"uuid": "e9b31f1b-5c98-4649-8543-227e93ba4693", "id": 1455, "source": "arXiv/2008", "title": "Existence of a polyhedron which does not have a non-overlapping pseudo-edge unfolding"}
-{"uuid": "b2cf6696-3cdf-4055-9803-0ffea1868d7e", "id": 1459, "source": "arXiv/2008", "title": "The injectivity of the global function of a cellular automaton in the hyperbolic plane is undecidable"}
-{"uuid": "e1cc1254-4711-40a9-804d-44bd61c7ba75", "id": 1483, "source": "arXiv/2008", "title": "Quantifying Homology Classes"}
-{"uuid": "3364e8cf-fec6-4214-b942-173259da8f5b", "id": 1960, "source": "arXiv/2009", "title": "A Way to Understand Various Patterns of Data Mining Techniques for Selected Domains"}
 {"uuid": "a0315b72-2203-4c7e-afa1-beb4359eab9c", "id": 2129, "source": "arXiv/2009", "title": "Matrix Graph Grammars as a Model of Computation"}
-{"uuid": "73090ebf-9b66-4ff0-b557-2df84a261a18", "id": 2140, "source": "arXiv/2009", "title": "Notes on large angle crossing graphs"}
 {"uuid": "28c33a88-316c-4a5b-b31b-21900990d14c", "id": 2246, "source": "arXiv/2009", "title": "Teaching Physical Based Animation via OpenGL Slides"}
-{"uuid": "9671afb6-dd56-4311-b372-91d69232f9bf", "id": 2382, "source": "arXiv/2009", "title": "Computation and Dynamics: Classical and Quantum"}
-{"uuid": "af7d7324-ef50-4fd6-b32a-6258f72dd9be", "id": 2571, "source": "arXiv/2010", "title": "Pseudorandom generators and the BQP vs. PH problem"}
-{"uuid": "a899ab68-1899-47ff-9222-cb921af2839c", "id": 2682, "source": "arXiv/2010", "title": "An Optimized Data Structure for High Throughput 3D Proteomics Data: mzRTree"}
-{"uuid": "cf33b2a7-a690-4888-9ea9-b82271d27fbf", "id": 2888, "source": "arXiv/2010", "title": "Data Stream Clustering: Challenges and Issues"}
-{"uuid": "2e10db8a-e27f-4473-9a2d-a152188be96c", "id": 2891, "source": "arXiv/2010", "title": "Similarity Search and Locality Sensitive Hashing using TCAMs"}
-{"uuid": "c02018a5-af97-42ca-93ab-1142df5825f1", "id": 2892, "source": "arXiv/2010", "title": "H2O: An Autonomic, Resource-Aware Distributed Database System"}
-{"uuid": "158b15d9-edf0-4ebc-a621-d8b7be1d150c", "id": 2893, "source": "arXiv/2010", "title": "Classification rule with simple select SQL statement"}
-{"uuid": "edbbec42-793d-4fa0-b7b2-f39606599253", "id": 2894, "source": "arXiv/2010", "title": "Multidimensi Pada Data Warehouse Dengan Menggunakan Rumus Kombinasi"}
-{"uuid": "11a4c389-b6c9-461f-80c2-8478c283a1c0", "id": 2897, "source": "arXiv/2010", "title": "Measuring interesting rules in Characteristic rule"}
 {"uuid": "426debdf-abb6-4c17-af9f-309e5e59d857", "id": 2899, "source": "arXiv/2010", "title": "Using Grid Files for a Relational Database Management System"}
-{"uuid": "6788db53-205a-4893-99dc-36c3959be9c2", "id": 2900, "source": "arXiv/2010", "title": "Building a Data Warehouse for National Social Security Fund of the Republic of Tunisia"}
-{"uuid": "6571644a-3e05-4685-9253-c8f9e77340ba", "id": 2901, "source": "arXiv/2010", "title": "Gestion efficace de séries temporelles en P2P: Application à l'analyse technique et l'étude des objets mobiles"}
 {"uuid": "ee95571d-8816-4825-8aa5-23fb72eb8b54", "id": 2902, "source": "arXiv/2010", "title": "XQ2P: Efficient XQuery P2P Time Series Processing"}
-{"uuid": "adf75f97-1a47-440c-b401-c8c6261153fc", "id": 2903, "source": "arXiv/2010", "title": "A New Framework for Join Product Skew"}
-{"uuid": "143e4583-dbf7-4fcd-bc82-4dd54a546866", "id": 2904, "source": "arXiv/2010", "title": "Provenance Views for Module Privacy"}
-{"uuid": "c96401d7-1901-46fe-8fae-7a2b3b7d40e8", "id": 2907, "source": "arXiv/2010", "title": "Efficient Support Coupled Frequent Pattern Mining Over Progressive Databases"}
-{"uuid": "b68ec414-063f-4972-a0d6-59f541aa7cc0", "id": 2908, "source": "arXiv/2010", "title": "A Data Warehouse Assistant Design System Based on Clover Model"}
-{"uuid": "1b3efb00-c32d-40cd-bae6-583848d4b321", "id": 2909, "source": "arXiv/2010", "title": "Attribute oriented induction with star schema"}
-{"uuid": "bfd67169-8ed9-4c65-a0ad-6d3359c9f225", "id": 2911, "source": "arXiv/2010", "title": "Providing Scalable Data Services in Ubiquitous Networks"}
-{"uuid": "d04cb83b-d1f4-4812-8b52-b4e2de5b9c2b", "id": 2912, "source": "arXiv/2010", "title": "Behavioral Simulations in MapReduce"}
-{"uuid": "1202d001-e669-4017-b5df-086d932908a5", "id": 2914, "source": "arXiv/2010", "title": "Adaptive Tuning Algorithm for Performance tuning of Database Management System"}
 {"uuid": "e439dcff-b576-4abd-8418-86bf1b7f3e34", "id": 2918, "source": "arXiv/2010", "title": "Contraintes pour modèle et langage multidimensionnels"}
 {"uuid": "c78f1176-363f-44d7-92bc-4b413e60efd9", "id": 2919, "source": "arXiv/2010", "title": "Analyse multigraduelle OLAP"}
 {"uuid": "99845788-f58e-4e42-9bc8-b029b6e2a029", "id": 2934, "source": "arXiv/2010", "title": "Mobile Database System: Role of Mobility on the Query Processing"}
@@ -105,195 +37,21 @@
 {"uuid": "3dd2f50a-f325-4057-85e2-9f57bdee1cf9", "id": 3430, "source": "arXiv/2010", "title": "Hypersurfaces with degenerate duals and the Geometric Complexity Theory Program"}
 {"uuid": "c9af7fa7-cfa9-432f-9e22-f71ad8881008", "id": 3432, "source": "arXiv/2010", "title": "The Convex Hull of a Variety"}
 {"uuid": "1ae0b146-db84-4c89-951b-35c29eb080dd", "id": 3433, "source": "arXiv/2010", "title": "Uniqueness of models in persistent homology: the case of curves"}
-{"uuid": "a0a9c735-fb86-45af-81de-44158da2bd34", "id": 3436, "source": "arXiv/2010", "title": "Measuring Shape with Topology"}
-{"uuid": "9769a1fa-7312-4b79-99a4-5f5b525bb980", "id": 3438, "source": "arXiv/2010", "title": "Stability of multidimensional persistent homology with respect to domain perturbations"}
-{"uuid": "badef55d-545e-45b1-b122-7b657824d37b", "id": 3442, "source": "arXiv/2010", "title": "The Graph Isomorphism Problem and approximate categories"}
-{"uuid": "6e81149a-a403-4f15-b4b4-b66e16b41a8e", "id": 3444, "source": "arXiv/2010", "title": "The Local Lemma is asymptotically tight for SAT"}
-{"uuid": "67fe5a76-1a2b-44a0-a4af-ddbaf8290abc", "id": 3445, "source": "arXiv/2010", "title": "How close can we come to a parity function when there isn't one?"}
-{"uuid": "f380ad4d-2c74-4d7a-a609-433b063cc6f4", "id": 3452, "source": "arXiv/2010", "title": "Multitriangulations, pseudotriangulations and some problems of realization of polytopes"}
-{"uuid": "0d7577cd-7cc2-4594-a9b3-a98f65531ae6", "id": 3454, "source": "arXiv/2010", "title": "A Bichromatic Incidence Bound and an Application"}
-{"uuid": "9971c063-036c-4a7c-ae4f-b5c3953ff59d", "id": 3455, "source": "arXiv/2010", "title": "Conflict-Free Coloring Made Stronger"}
 {"uuid": "6329ed70-6611-458a-8427-bc62d9dffa4b", "id": 3456, "source": "arXiv/2010", "title": "The potential to improve the choice: list conflict-free coloring for geometric hypergraphs"}
-{"uuid": "d70217bc-5717-4496-8705-3c975f8f72e6", "id": 3462, "source": "arXiv/2010", "title": "A Class of lattices and boolean functions related to a Manickam-Miklös-Singhi Conjecture"}
-{"uuid": "e1c30afe-26b1-46fd-aa25-55d4a1ea3996", "id": 3466, "source": "arXiv/2010", "title": "Regarding a Representation-Theoretic Conjecture of Wigderson"}
-{"uuid": "8c9d883d-8cb5-4912-8387-7f5bf90405c6", "id": 3467, "source": "arXiv/2010", "title": "A minimal nonfinitely based semigroup whose variety is polynomially recognizable"}
-{"uuid": "9f3a488b-f686-4a10-9d3c-262fa692050b", "id": 3475, "source": "arXiv/2010", "title": "Constructing elusive functions with help of evaluation mappings"}
-{"uuid": "bd088a99-c68c-40c8-b75f-9eb0a7688236", "id": 3479, "source": "arXiv/2010", "title": "An upper bound on the volume of the symmetric difference of a body and a congruent copy"}
-{"uuid": "24771e93-a3a9-45c0-8537-f5f63b4dbd06", "id": 3497, "source": "arXiv/2010", "title": "Stability of Skorokhod problem is undecidable"}
 {"uuid": "f9cfb004-0163-4984-b7cc-c0047962ec7f", "id": 3609, "source": "arXiv/2011", "title": "The ADS in the Information Age - Impact on Discovery"}
-{"uuid": "b222c500-08ff-4710-be0a-4ebaba41862c", "id": 3744, "source": "arXiv/2011", "title": "The Parameterised Complexity of List Problems on Graphs of Bounded Treewidth"}
-{"uuid": "6e4721a8-ac6f-437b-b4b6-941903f92540", "id": 3748, "source": "arXiv/2011", "title": "Rainbow connections for planar graphs and line graphs"}
-{"uuid": "b48e07f8-c53d-460a-87ea-bfe8cbec23d9", "id": 3749, "source": "arXiv/2011", "title": "Software Engineering and Complexity in Effective Algebraic Geometry"}
-{"uuid": "ffb9e2ae-87dc-4267-a1dc-33c42a3da69a", "id": 3751, "source": "arXiv/2011", "title": "The complexity of conservative valued CSPs"}
-{"uuid": "c158e1b5-e5e4-4a1e-84be-57a587ed52a2", "id": 3781, "source": "arXiv/2011", "title": "Un metodo estable para la evaluacion de la complejidad algoritmica de cadenas cortas"}
-{"uuid": "c09ab302-4c4b-4d58-9658-9b8cf8689cd2", "id": 3800, "source": "arXiv/2011", "title": "Computational Hardness of Enumerating Satisfying Spin-Assignments in Triangulations"}
-{"uuid": "2281ed2d-1e43-40d7-b40b-8a0e12c4f73c", "id": 3803, "source": "arXiv/2011", "title": "On the Computational Complexity of Stochastic Controller Optimization in POMDPs"}
-{"uuid": "e808d3e0-b092-42df-aff1-40758baeb421", "id": 3804, "source": "arXiv/2011", "title": "On the Feasibility of Maintenance Algorithms in Dynamic Graphs"}
-{"uuid": "a8310479-bdc6-4a9b-85bd-f2718b13890f", "id": 3805, "source": "arXiv/2011", "title": "Lower Bounds for Number-in-Hand Multiparty Communication Complexity, Made Easy"}
-{"uuid": "666e4ccf-24c5-4a0f-a635-c0e04c21122d", "id": 3848, "source": "arXiv/2011", "title": "Storage Enforcement with Kolmogorov Complexity and List Decoding"}
-{"uuid": "8723e048-a418-4660-8eb9-fe9763a9bf16", "id": 4393, "source": "arXiv/2011", "title": "OpenPh - Numerical Physics Library"}
-{"uuid": "1804ac96-c40b-405c-857a-60225e8fffbc", "id": 4399, "source": "arXiv/2011", "title": "Need to categorize: A comparative look at the categories of the Universal Decimal Classification system (UDC) and Wikipedia"}
-{"uuid": "9b5cd1f4-1a86-45ff-9fe2-f0d695adcb5e", "id": 4403, "source": "arXiv/2011", "title": "Correction of Noisy Sentences using a Monolingual Corpus"}
 {"uuid": "ec1ce3db-b1bb-42e9-8cfc-d6e1f023e98d", "id": 4412, "source": "arXiv/2011", "title": "ChemXSeer Digital Library Gaussian Search"}
-{"uuid": "fb728bbb-3d08-4727-b581-c90aa3ba897b", "id": 4417, "source": "arXiv/2011", "title": "Bounds and Inequalities Relating h-Index, g-Index, e-Index and Generalized Impact Factor"}
-{"uuid": "5819cafb-07ce-467b-a482-5c9d7ee496b3", "id": 4419, "source": "arXiv/2011", "title": "Globalisation of science in kilometres"}
-{"uuid": "94ee7c14-a06d-49f7-a09a-6f4f22f0fed5", "id": 4667, "source": "arXiv/2011", "title": "On primary and secondary repetitions in words"}
-{"uuid": "782cef78-9870-4d78-a9c1-31a83a28c375", "id": 4668, "source": "arXiv/2011", "title": "Algorithms for computing the greatest simulations and bisimulations between fuzzy automata"}
-{"uuid": "f1daa0f5-364b-4999-91e0-1b23d3a4f6d2", "id": 5110, "source": "arXiv/2012", "title": "Bring out your codes! Bring out your codes! (Increasing Software Visibility and Re-use)"}
-{"uuid": "df1c88b1-f9d4-46aa-ba44-a21f7c4a48dd", "id": 5111, "source": "arXiv/2012", "title": "Astronomy and Computing: a New Journal for the Astronomical Computing Community"}
-{"uuid": "71a5ca1d-68c3-4d8d-b076-a0d168b4e2fb", "id": 5114, "source": "arXiv/2012", "title": "A measure of total research impact independent of time and discipline"}
-{"uuid": "3a83a3a9-e2b4-4791-873d-a2b9de51c3e7", "id": 5119, "source": "arXiv/2012", "title": "Fully Digital: Policy and Process Implications for the AAS"}
-{"uuid": "70aed2d6-7278-474e-9f95-8ce9d390546e", "id": 5120, "source": "arXiv/2012", "title": "Citations to Australian Astronomy: 5 and 10 Year Benchmarks"}
-{"uuid": "ef3a10d2-d05a-4f38-8ced-8da1342d6219", "id": 5127, "source": "arXiv/2012", "title": "Phyllotaxis: a non conventional crystalline solution to packing efficiency in situations with radial symmetry"}
-{"uuid": "03ac255a-46b5-4b88-bc28-0b7752f0ad44", "id": 5145, "source": "arXiv/2012", "title": "Eliminating the Weakest Link: Making Manipulation Intractable?"}
-{"uuid": "6eb337a2-bfd7-42f2-8635-da43e07adf1e", "id": 5152, "source": "arXiv/2012", "title": "Sensitivity Analysis for Threshold Decision Making with Dynamic Networks"}
-{"uuid": "ca4595a3-1415-4171-b8de-0dd4bd33160c", "id": 5157, "source": "arXiv/2012", "title": "Dynamic Decision Support System Based on Bayesian Networks Application to fight against the Nosocomial Infections"}
-{"uuid": "e613bf3e-3af0-4631-8db6-e9c2dabd36b7", "id": 5169, "source": "arXiv/2012", "title": "The observational roots of reference of the semantic web"}
-{"uuid": "b4b4987f-f63c-470b-aa90-c133aafea176", "id": 5185, "source": "arXiv/2012", "title": "Low Cost PC Based Real Time Data Logging System Using PCs Parallel Port For Slowly Varying Signals"}
-{"uuid": "4293c84d-982f-4406-a848-0945f48db994", "id": 5189, "source": "arXiv/2012", "title": "The Necessity for Hardware QoS Support for Server Consolidation and Cloud Computing"}
-{"uuid": "7a9c03fb-f9a7-47db-bc66-0c94b14f083a", "id": 5192, "source": "arXiv/2012", "title": "Architecture for real time continuous sorting on large width data volume for fpga based applications"}
-{"uuid": "fdd841fd-ae97-4055-b1b1-81be5782eae6", "id": 5193, "source": "arXiv/2012", "title": "Investigating Warp Size Impact in GPUs"}
-{"uuid": "1c0c1b50-7e66-43cb-8831-804d88e18d50", "id": 5200, "source": "arXiv/2012", "title": "Reversible Programmable Logic Array (RPLA) using Feynman & MUX Gates for Low Power Industrial Applications"}
-{"uuid": "d5452cd6-cf0a-47cc-bd3f-9cb714642125", "id": 5203, "source": "arXiv/2012", "title": "C-slow Technique vs Multiprocessor in designing Low Area Customized Instruction set Processor for Embedded Applications"}
-{"uuid": "69e20449-5587-4f52-8324-53957c41c9c9", "id": 5312, "source": "arXiv/2012", "title": "Black-box Identity Testing for Low Degree Unmixed $ΣΠΣΠ(k)$ Circuits"}
-{"uuid": "98440160-52cd-453f-8159-f4368d73962d", "id": 5336, "source": "arXiv/2012", "title": "Improved Inapproximability for TSP"}
 {"uuid": "551b74d0-0061-489f-ac56-5ab5bfc32190", "id": 5346, "source": "arXiv/2012", "title": "Computation Environments, An Interactive Semantics for Turing Machines (which P is not equal to NP considering it)"}
-{"uuid": "ee3996ae-344e-4c9a-b7b8-77a9ccacabb7", "id": 5404, "source": "arXiv/2012", "title": "Turing machines can be efficiently simulated by the General Purpose Analog Computer"}
-{"uuid": "9324d255-15b0-46f1-916e-b203ecbcdcbf", "id": 5415, "source": "arXiv/2012", "title": "The Complexity of the Puzzles of Final Fantasy XIII-2"}
-{"uuid": "04488fbb-f99d-486a-9b60-9592245d6d10", "id": 5425, "source": "arXiv/2012", "title": "On the computational complexity of a game of cops and robbers"}
-{"uuid": "de5cecd1-430b-4ee3-971a-c4125bf714d5", "id": 5912, "source": "arXiv/2012", "title": "Impedance mismatch is not an \"Objects vs. Relations\" problem"}
-{"uuid": "d02281c8-c798-42b1-acfd-5351a9ecfb64", "id": 5914, "source": "arXiv/2012", "title": "Breaking Out The XML MisMatch Trap"}
-{"uuid": "52dcd24e-9908-4d5d-89b9-407fa6ad4c3e", "id": 6175, "source": "arXiv/2012", "title": "Semantic web applications with regard to math and environment"}
-{"uuid": "49c25913-62e3-40ed-8d70-5032477826c3", "id": 6182, "source": "arXiv/2012", "title": "Exploring scientists' working timetable: Do scientists often work overtime?"}
 {"uuid": "4b82f6b5-97ff-443c-81bd-eb0fb30c0fdb", "id": 6183, "source": "arXiv/2012", "title": "Tracing scientist's research trends realtimely"}
-{"uuid": "5c288d0b-010e-4049-b8f0-8761f6bec0e1", "id": 6206, "source": "arXiv/2012", "title": "How Can Journal Impact Factors be Normalized across Fields of Science? An Assessment in terms of Percentile Ranks and Fractional Counts"}
-{"uuid": "0d6d77c5-66ff-42f1-a374-b9fd7445ae05", "id": 6214, "source": "arXiv/2012", "title": "Looking at a digital research data archive - Visual interfaces to EASY"}
-{"uuid": "8ff7b736-5a01-43cc-952b-e52668b30bcd", "id": 6299, "source": "arXiv/2012", "title": "A New Upper Bound for the Traveling Salesman Problem in Cubic Graphs"}
-{"uuid": "36449d73-08db-4f2c-9fcb-cd33ded67240", "id": 6328, "source": "arXiv/2012", "title": "Finding Efficient Region in The Plane with Line segments"}
 {"uuid": "28b6f990-bb4d-478c-a800-5efd13c4a1bb", "id": 6329, "source": "arXiv/2012", "title": "Faster Clustering via Preprocessing"}
-{"uuid": "c7adc0b7-c261-469a-8909-96f675ad7433", "id": 6330, "source": "arXiv/2012", "title": "Fault-Tolerant Spanners for Doubling Metrics: Better and Simpler"}
-{"uuid": "cdfcb61f-1944-4a3e-8b04-895115005791", "id": 6356, "source": "arXiv/2012", "title": "Evolution of Plastic Learning in Spiking Networks via Memristive Connections"}
 {"uuid": "397af381-689d-4fab-98c8-7a86af740e7d", "id": 6819, "source": "arXiv/2012", "title": "Umgebungserfassungssystem fuer mobile Roboter (environment logging system for mobile autonomous robots)"}
-{"uuid": "35819fc8-6a00-4402-a091-fec20f5c3b55", "id": 6831, "source": "arXiv/2012", "title": "A Parametric Counterexample Refinement Approach for Robust Timed Specifications"}
 {"uuid": "879ca28a-6564-4cdd-9b21-66b66d09efae", "id": 7301, "source": "arXiv/2013", "title": "Short $\\mathsf{Res}^*(\\mathsf{polylog})$ refutations if and only if narrow $\\mathsf{Res}$ refutations"}
-{"uuid": "0fecfe0a-1e41-44a3-9833-60f45bdf4e42", "id": 7421, "source": "arXiv/2013", "title": "Computability vs. Nondeterministic and P vs. NP"}
-{"uuid": "079c626f-b940-4302-aea4-47690854f2f9", "id": 7423, "source": "arXiv/2013", "title": "3SUM, 3XOR, Triangles"}
-{"uuid": "70021717-74b3-4480-b47c-8a1b507f4ed6", "id": 7442, "source": "arXiv/2013", "title": "On fixed-polynomial size circuit lower bounds for uniform polynomials in the sense of Valiant"}
 {"uuid": "20428fca-d78b-4767-a9ac-8e1851770c42", "id": 7535, "source": "arXiv/2013", "title": "Predictive Comparative QSAR Analysis Of As 5-Nitofuran-2-YL Derivatives Myco bacterium tuberculosis H37RV Inhibitors Bacterium Tuberculosis H37RV Inhibitors"}
-{"uuid": "64546502-d7c7-4bfc-a853-50408fbe0ca2", "id": 7746, "source": "arXiv/2013", "title": "A Simple, Faster Method for Kinetic Proximity Problems"}
-{"uuid": "db63360a-b835-4509-ab82-7df3e83c97f1", "id": 7846, "source": "arXiv/2013", "title": "On Improved Bounds on Bounded Degree Spanning Trees for Points in Arbitrary Dimension"}
 {"uuid": "216d96d9-41cb-4d31-b56a-71f0a48a992e", "id": 7858, "source": "arXiv/2013", "title": "Developing a General algorithm for Ball Curve with GC2"}
-{"uuid": "cd339950-70ba-4d7e-9447-f6b45790fdac", "id": 7976, "source": "arXiv/2013", "title": "Model Counting of Query Expressions: Limitations of Propositional Methods"}
-{"uuid": "4b8906fb-309f-40ef-ba22-7071cd410b95", "id": 7991, "source": "arXiv/2013", "title": "Efficient Lineage for SUM Aggregate Queries"}
-{"uuid": "ac1b13d3-b12c-4e2b-a642-09bd144ca1bc", "id": 7994, "source": "arXiv/2013", "title": "DRSP : Dimension Reduction For Similarity Matching And Pruning Of Time Series Data Streams"}
-{"uuid": "d1f43203-26a6-4aa7-8f30-fad3df5f1d65", "id": 8068, "source": "arXiv/2013", "title": "Benchmarking Summarizability Processing in XML Warehouses with Complex Hierarchies"}
-{"uuid": "df9dda0c-76fb-4414-b18d-03770ea201db", "id": 8101, "source": "arXiv/2013", "title": "Ontology Based Data Integration Over Document and Column Family Oriented NOSQL"}
-{"uuid": "8db5e032-3df8-419e-a516-9e40e17f9727", "id": 8195, "source": "arXiv/2013", "title": "Quasi-SLCA based Keyword Query Processing over Probabilistic XML Data"}
-{"uuid": "cd186a74-ea64-407b-96ea-9eb45bdfb312", "id": 8210, "source": "arXiv/2013", "title": "High Performance Risk Aggregation: Addressing the Data Processing Challenge the Hadoop MapReduce Way"}
-{"uuid": "6ac96849-72bf-403b-b513-0c3b21cafd73", "id": 8212, "source": "arXiv/2013", "title": "Scalable Protein Sequence Similarity Search using Locality-Sensitive Hashing and MapReduce"}
-{"uuid": "386c3cf7-6359-4de3-8628-c0a3eec014d6", "id": 8265, "source": "arXiv/2013", "title": "Journal Maps, Interactive Overlays, and the Measurement of Interdisciplinarity on the Basis of Scopus Data (1996-2012)"}
-{"uuid": "41b4efce-9625-4c50-a787-89e16daacda5", "id": 8271, "source": "arXiv/2013", "title": "First Author Advantage: Citation Labeling in Research"}
-{"uuid": "7bfe5677-5b5b-49d7-99a3-2b6cbbddc979", "id": 8326, "source": "arXiv/2013", "title": "Altmetrics: New Indicators for Scientific Communication in Web 2.0"}
-{"uuid": "6bd2bafa-a55c-47df-8262-d93d36c4ae67", "id": 8349, "source": "arXiv/2013", "title": "New Index for Quantifying an Individual's Scientific Research Output"}
-{"uuid": "75cb7757-a6ad-4d18-be16-7aa2d4341a98", "id": 8370, "source": "arXiv/2013", "title": "A bibliometric index based on the complete list of cited publications"}
-{"uuid": "0d8d8a53-ec89-4334-884e-18256bccd1f4", "id": 8402, "source": "arXiv/2013", "title": "Technology Transfer and the End of the Bayh-Dole Effect: Patents as an Analytical Lens on University-Industry-Government Relations"}
-{"uuid": "2745d407-d351-4c5d-a299-15890d2bb55f", "id": 8406, "source": "arXiv/2013", "title": "How to evaluate individual researchers working in the natural and life sciences meaningfully? A proposal of methods based on percentiles of citations"}
-{"uuid": "ff3f0082-21b9-461e-824c-040c91de4cc0", "id": 8431, "source": "arXiv/2013", "title": "A systematic empirical comparison of different approaches for normalizing citation impact indicators"}
 {"uuid": "c50517bf-89b2-4899-97ba-bef563aa5718", "id": 8479, "source": "arXiv/2013", "title": "Everything you always wanted to know about the parameterized complexity of Subgraph Isomorphism (but were afraid to ask)"}
-{"uuid": "6731e08c-5acf-499e-bcb0-1927908f33f8", "id": 8599, "source": "arXiv/2013", "title": "Unary languages recognized by two-way one-counter automata"}
-{"uuid": "b76f045a-4cf2-49f0-934b-5905630a325d", "id": 8604, "source": "arXiv/2013", "title": "Stochastic Context-Free Grammars, Regular Languages, and Newton's Method"}
-{"uuid": "f790dc80-3e68-4ce2-8d8c-2c2f05b556b7", "id": 8616, "source": "arXiv/2013", "title": "Ergodicity of Random Walks on Random DFA"}
-{"uuid": "08830de5-df86-4b75-adc0-e58f02ac2296", "id": 8640, "source": "arXiv/2013", "title": "A decidable class of (nominal) omega-regular languages over an infinite alphabet"}
 {"uuid": "924c4702-90d7-45cb-b759-0b2e54606f9f", "id": 8641, "source": "arXiv/2013", "title": "Ehrenfeucht-Fraisse Games on Omega-Terms"}
-{"uuid": "6ae0aa98-1c29-4e2a-8321-a506b30a3cf7", "id": 8662, "source": "arXiv/2013", "title": "On the Generative Power of Omega-Grammars and Omega-Automata"}
-{"uuid": "052e3e4a-1868-4321-ba7b-fbf79201269e", "id": 8684, "source": "arXiv/2013", "title": "Detecting Useless Transitions in Pushdown Automata"}
-{"uuid": "ad9e9093-29b1-4792-8540-77ed2c034106", "id": 8802, "source": "arXiv/2013", "title": "Characterization of Planar Cubic Alternative curve"}
-{"uuid": "20d2ba1d-4c4d-4199-8a32-04dbd43dbeea", "id": 8813, "source": "arXiv/2013", "title": "Immersive VR Visualizations by VFIVE. Part 2: Applications"}
-{"uuid": "6fce0b5b-2650-4357-82cd-29f5b12ca909", "id": 8814, "source": "arXiv/2013", "title": "Immersive VR Visualizations by VFIVE. Part 1: Development"}
-{"uuid": "6e013bbb-a705-4a87-9327-43b97c756344", "id": 8822, "source": "arXiv/2013", "title": "On the Complexity of the Decisive Problem in Simple, Regular and Weighted Games"}
-{"uuid": "3253fe89-cafd-44e4-ab92-153a72a4dcc0", "id": 8827, "source": "arXiv/2013", "title": "Real-time Bidding for Online Advertising: Measurement and Analysis"}
-{"uuid": "d47f656e-8f32-45e4-941b-7fc6ecbb9ca7", "id": 8828, "source": "arXiv/2013", "title": "A Critical Assessment of Cost-Based Nash Methods for Demand Scheduling in Smart Grids"}
-{"uuid": "755be02f-fff6-492c-97ef-4aba0b2b2cf2", "id": 8835, "source": "arXiv/2013", "title": "Flexible queries in XML native databases"}
-{"uuid": "a34c8b59-46f3-4e78-92ae-8f38ba3b9e85", "id": 8847, "source": "arXiv/2013", "title": "Bibliometric-enhanced Information Retrieval"}
-{"uuid": "b5700aa6-ed19-4832-bb81-ea547330497b", "id": 8852, "source": "arXiv/2013", "title": "Performing Informetric Analysis on Information Retrieval Test Collections: Preliminary Experiments in the Physics Domain"}
-{"uuid": "d3714b40-add5-48be-9039-a05701b0b294", "id": 8856, "source": "arXiv/2013", "title": "Personalized Academic Research Paper Recommendation System"}
 {"uuid": "a1bae99d-63fd-4172-91fa-b89b7c3d182a", "id": 8859, "source": "arXiv/2013", "title": "Large scale citation matching using Apache Hadoop"}
-{"uuid": "734c7d4f-d348-457f-8349-06960c7e9e5c", "id": 8860, "source": "arXiv/2013", "title": "Taming the zoo - about algorithms implementation in the ecosystem of Apache Hadoop"}
-{"uuid": "1ee1c31c-e93b-48be-bd0a-430dbc5dbf35", "id": 8865, "source": "arXiv/2013", "title": "Learning to Rank for Expert Search in Digital Libraries of Academic Publications"}
-{"uuid": "942ab088-6b90-4230-a80d-c84584d19f0d", "id": 8872, "source": "arXiv/2013", "title": "Explicit rank-metric codes list-decodable with optimal redundancy"}
-{"uuid": "a65954cd-e0d4-4d44-add1-cb11e5adb4bb", "id": 8881, "source": "arXiv/2013", "title": "Quantum-inspired Huffman Coding"}
-{"uuid": "36ee9f4d-5e97-4d37-a8df-2c6e4fa582a0", "id": 9058, "source": "arXiv/2013", "title": "The DPHEP Study Group: Data Preservation in High Energy Physics"}
-{"uuid": "b46503f7-b5ce-46df-9b14-ec3351d35147", "id": 9096, "source": "arXiv/2013", "title": "On the complexity of Boolean matrix ranks"}
 {"uuid": "269310c7-9e5d-421d-a68e-3f614dc2bff8", "id": 9100, "source": "arXiv/2013", "title": "Complexity and polymorphisms for digraph constraint problems under some basic constructions"}
-{"uuid": "e809fc7f-57e1-4e66-bf60-046db6bbdbc6", "id": 9146, "source": "arXiv/2013", "title": "Topological properties of sets represented by an inequality involving distances"}
-{"uuid": "e859c66d-28a7-4ec3-9983-10805809e89b", "id": 9161, "source": "arXiv/2013", "title": "Anisimov's Theorem for inverse semigroups"}
-{"uuid": "37417c2d-05a9-46e5-8924-41e3f4c376f1", "id": 9167, "source": "arXiv/2013", "title": "Probabilistic Computability and Choice"}
-{"uuid": "6d1ed8aa-6e63-4a46-a9a3-85f7c3eae541", "id": 9176, "source": "arXiv/2013", "title": "Decomposition of multiple packings with subquadratic union complexity"}
-{"uuid": "e45189d7-a7d1-4114-87ff-67db9611de31", "id": 9177, "source": "arXiv/2013", "title": "Geometric complexity of embeddings in ${\\mathbb R}^d$"}
-{"uuid": "c095ee8c-9f7f-4ec9-a0a0-b41f0f6fbfa9", "id": 9185, "source": "arXiv/2013", "title": "On the minimum FLOPs problem in the sparse Cholesky factorization"}
-{"uuid": "9ca6f4da-3ee0-4d54-9d52-6e7dcebcb570", "id": 9197, "source": "arXiv/2013", "title": "Stochastic First- and Zeroth-order Methods for Nonconvex Stochastic Programming"}
-{"uuid": "40947437-03a9-4ed0-a6de-5f5a926ed909", "id": 9198, "source": "arXiv/2013", "title": "Stability of Polynomial Differential Equations: Complexity and Converse Lyapunov Questions"}
-{"uuid": "ff6e2516-734d-4212-83e3-6727af80dfc4", "id": 9209, "source": "arXiv/2013", "title": "On Sharp Thresholds in Random Geometric Graphs"}
-{"uuid": "72945930-acb6-4abe-bea7-477bc05bc093", "id": 9217, "source": "arXiv/2013", "title": "A Lattice for Persistence"}
-{"uuid": "df501443-907b-49fd-8302-d9586d22511d", "id": 9228, "source": "arXiv/2013", "title": "Investigation of Rule 73 as Case Study of Class 4 Long-Distance Cellular Automata"}
-{"uuid": "d392ac0b-d4c5-48ec-873c-2741edcd1314", "id": 9229, "source": "arXiv/2013", "title": "Asymptotic Behaviour and Ratios of Complexity in Cellular Automata"}
-{"uuid": "e9031e5f-e384-41f3-988a-7993a1b4f5d1", "id": 9231, "source": "arXiv/2013", "title": "On generalization of reversible second-order cellular automata"}
-{"uuid": "edfd59f8-e5d9-41ac-bc22-044a0e075a7a", "id": 9249, "source": "arXiv/2013", "title": "Free Instrument for Movement Measure"}
-{"uuid": "991f27d4-dad2-423f-a867-872cdf112f91", "id": 9259, "source": "arXiv/2013", "title": "Author Impact Factor: tracking the dynamics of individual scientific impact"}
-{"uuid": "64bb8996-eb52-4f25-96e1-88abbd4bcffd", "id": 9262, "source": "arXiv/2013", "title": "Scholarly literature and the press: scientific impact and social perception of physics computing"}
-{"uuid": "d4cc5921-d625-4335-9ae7-209524730b28", "id": 9269, "source": "arXiv/2013", "title": "Modeling nonuniversal citation distributions: the role of scientific journals"}
-{"uuid": "94a9cab3-7588-4daf-a229-ed950f12fb02", "id": 9276, "source": "arXiv/2013", "title": "Categorical and Geographical Separation in Science"}
-{"uuid": "aa6441b9-f376-4ba8-b3ec-32cf66e3cabb", "id": 9283, "source": "arXiv/2013", "title": "How important tasks are performed: peer review"}
-{"uuid": "06f947fd-af53-4bb9-8e0d-7f322d86ebf3", "id": 9292, "source": "arXiv/2013", "title": "Characterizing scientific production and consumption in Physics"}
-{"uuid": "7685f306-bcd3-4a34-bdf8-408b0a75cb20", "id": 9315, "source": "arXiv/2013", "title": "eXamine: a Cytoscape app for exploring annotated modules in networks"}
-{"uuid": "91539297-7204-4fae-8c34-bbc0eb2d2e74", "id": 9317, "source": "arXiv/2013", "title": "Some Perspectives on Network Modeling in Therapeutic Target Prediction"}
-{"uuid": "d93b63d5-d6b3-4633-b83e-c6a35f65f709", "id": 9358, "source": "arXiv/2013", "title": "Simulating Quantum Circuits with Sparse Output Distributions"}
-{"uuid": "3cb60db3-ff5d-4fcb-964e-0c8fd4973542", "id": 9361, "source": "arXiv/2013", "title": "An Almost Sudden Jump in Quantum Complexity"}
-{"uuid": "a67c99f3-cb03-49d6-9bd8-0cf0bb8718ba", "id": 9363, "source": "arXiv/2013", "title": "A parallel repetition theorem for entangled projection games"}
-{"uuid": "1b30bde5-66e9-4997-bb7b-e35bc55e553c", "id": 9365, "source": "arXiv/2013", "title": "Computational complexity of time-dependent density functional theory"}
-{"uuid": "0d290721-5768-40ac-b3e0-e76c29086499", "id": 9369, "source": "arXiv/2013", "title": "Optimal parallel quantum query algorithms"}
-{"uuid": "e959e8d4-b968-4757-b967-aff87fdee451", "id": 9373, "source": "arXiv/2013", "title": "Quantum interactive proofs and the complexity of separability testing"}
-{"uuid": "a4b755b9-a633-4b02-86b2-8a48207eaa2e", "id": 9377, "source": "arXiv/2013", "title": "Optimal Blind Quantum Computation"}
-{"uuid": "ab5e82e4-1ede-4d81-a811-7c3b8e500889", "id": 9394, "source": "arXiv/2013", "title": "Quantum Computing's Classical Problem, Classical Computing's Quantum Problem"}
-{"uuid": "49a3e83c-512c-4f09-8f01-16c99568d18a", "id": 9400, "source": "arXiv/2013", "title": "A Single Universal n-bit Gate for Reversible Circuit Synthesis"}
-{"uuid": "572108ed-cf39-46b2-b75d-442c0fd4a6bb", "id": 9406, "source": "arXiv/2013", "title": "Faster Quantum Number Factoring via Circuit Synthesis"}
-{"uuid": "29c639b3-243c-49ee-8a2e-7f3f01765e21", "id": 9412, "source": "arXiv/2013", "title": "Uncertainty Measures and Limiting Distributions for Filament Estimation"}
-{"uuid": "15c3fb0a-c49e-4249-a076-90f6f902e66f", "id": 9428, "source": "arXiv/2014", "title": "The physics of volume rendering"}
-{"uuid": "d9b11d4c-d72b-4375-b67b-ff844f9b8f73", "id": 9430, "source": "arXiv/2014", "title": "Computational Complexity, Phase Transitions, and Message-Passing for Community Detection"}
-{"uuid": "4d9360d9-d5c9-4f94-82b8-f0efffae752c", "id": 9431, "source": "arXiv/2014", "title": "Statistical physics of hard combinatorial optimization: The vertex cover problem"}
-{"uuid": "e94021a4-0278-47ae-837c-35a49f91e3cf", "id": 9441, "source": "arXiv/2014", "title": "Phase Diagram of Diblock Copolymer Melt in Dimension d=5"}
-{"uuid": "8657565f-830e-40a5-b1ae-eaed37274491", "id": 9450, "source": "arXiv/2014", "title": "The Nonequilibrium Many-Body Problem as a paradigm for extreme data science"}
 {"uuid": "5a08bc86-aff8-493d-89ec-22c1849a90b3", "id": 9452, "source": "arXiv/2014", "title": "Building fast Bayesian computing machines out of intentionally stochastic, digital parts"}
-{"uuid": "30cf730c-4a70-4881-a562-196b22aaf69c", "id": 9454, "source": "arXiv/2014", "title": "Allocation in Practice"}
-{"uuid": "13821dca-6ddd-4b38-81c2-6f83ab13920c", "id": 9457, "source": "arXiv/2014", "title": "Guarantees and Limits of Preprocessing in Constraint Satisfaction and Reasoning"}
-{"uuid": "60037c9c-a46e-44eb-8ac2-698ad469f4e0", "id": 9460, "source": "arXiv/2014", "title": "Perturbed Message Passing for Constraint Satisfaction Problems"}
-{"uuid": "db8e7d50-7f75-4a85-b0a5-b1ee7841753d", "id": 9463, "source": "arXiv/2014", "title": "Integrating Fuzzy and Ant Colony System for Fuzzy Vehicle Routing Problem with Time Windows"}
-{"uuid": "49b38621-6e7e-468c-88b5-6e33db604e45", "id": 9481, "source": "arXiv/2014", "title": "Understanding the Complexity of Lifted Inference and Asymmetric Weighted Model Counting"}
-{"uuid": "dde273ec-82fb-4353-8ff2-d2429f7beb8f", "id": 9490, "source": "arXiv/2014", "title": "A High-Throughput Energy-Efficient Implementation of Successive-Cancellation Decoder for Polar Codes Using Combinational Logic"}
 {"uuid": "bdb8d133-3ed5-44b4-9763-98feced5fec6", "id": 9494, "source": "arXiv/2014", "title": "Correction to the 2005 paper: \"Digit Selection for SRT Division and Square Root\""}
-{"uuid": "e0fc7ad8-c84c-4570-9cf0-4cde6f0a9041", "id": 9496, "source": "arXiv/2014", "title": "Evaluation of silicon consumption for a connectionless Network-on-Chip"}
-{"uuid": "18339528-5359-4779-b234-98e1cb0d1d8f", "id": 9511, "source": "arXiv/2014", "title": "An ECG-SoC with 535nW/channel lossless data compression for wearable sensors"}
-{"uuid": "f5f3b4d6-e1bd-4b97-9b0b-78ad085e6d7e", "id": 9526, "source": "arXiv/2014", "title": "A Survey of Methods For Analyzing and Improving GPU Energy Efficiency"}
-{"uuid": "a4f534b9-dbc7-482c-9e5f-1c169ef06bdd", "id": 9530, "source": "arXiv/2014", "title": "A high-level model of embedded flash energy consumption"}
-{"uuid": "eaf98317-72da-49aa-b9b5-f997f604e932", "id": 9537, "source": "arXiv/2014", "title": "State Dependent Statistical Timing Model for Voltage Scaled Circuits"}
-{"uuid": "b6ed0cd1-079d-4496-9885-5bbf0dec0fdd", "id": 9538, "source": "arXiv/2014", "title": "Development of SyReC based expandable reversible logic circuits"}
-{"uuid": "5c9d2fb8-eb77-4072-b3bc-85c12dcbd680", "id": 9546, "source": "arXiv/2014", "title": "Multi-Voltage and Level-Shifter Assignment Driven Floorplanning"}
-{"uuid": "ce6eed34-3acb-48ff-9b01-6bd2fe602fdd", "id": 9552, "source": "arXiv/2014", "title": "Layout decomposition for triple patterning lithography"}
-{"uuid": "75a469aa-70e2-45e5-8a2a-ea62e95ef13b", "id": 9553, "source": "arXiv/2014", "title": "Self-Aligned Double Patterning Friendly Configuration for Standard Cell Library Considering Placement"}
-{"uuid": "fa4b002e-6482-4594-9982-cd9c552c7070", "id": 9554, "source": "arXiv/2014", "title": "E-BLOW: E-Beam Lithography Overlapping aware Stencil Planning for MCC System"}
-{"uuid": "b1ecd976-286d-492f-a361-0585cc0fcfb0", "id": 9555, "source": "arXiv/2014", "title": "Triple Patterning Lithography (TPL) Layout Decomposition using End-Cutting"}
-{"uuid": "8be8a160-342f-4899-b790-91f29c6968e2", "id": 9575, "source": "arXiv/2014", "title": "New algorithms and lower bounds for monotonicity testing"}
-{"uuid": "4789f69d-6cb7-44d3-8c4d-90565208f13f", "id": 9577, "source": "arXiv/2014", "title": "New Bounds for the Garden-Hose Model"}
-{"uuid": "7394e200-3f0a-4dae-a7c1-401c9abf1d18", "id": 9594, "source": "arXiv/2014", "title": "Dichotomy Theorems for Homomorphism Polynomials of Graph Classes"}
-{"uuid": "4199093d-e1b3-4e4d-9689-943b935f8a5a", "id": 9603, "source": "arXiv/2014", "title": "Approximately counting locally-optimal structures"}
-{"uuid": "df665369-e243-400e-ac54-484146393400", "id": 9605, "source": "arXiv/2014", "title": "Complexity of Secure Sets"}
-{"uuid": "0ccd6af4-36f8-432b-9694-9bc61d5c9bae", "id": 9619, "source": "arXiv/2014", "title": "Tighter Relations Between Sensitivity and Other Complexity Measures"}
-{"uuid": "07d7efb8-cc06-49b9-b2c5-d994433dcb77", "id": 9629, "source": "arXiv/2014", "title": "On the read-once property of branching programs and CNFs of bounded treewidth"}
-{"uuid": "7afe809c-4487-4fb3-a4bc-ce307425ec95", "id": 9642, "source": "arXiv/2014", "title": "Zig-Zag Numberlink is NP-Complete"}
-{"uuid": "89d936a2-658b-44a1-8192-d47dde7c78ca", "id": 9643, "source": "arXiv/2014", "title": "On computational complexity of length embeddability of graphs"}
 {"uuid": "16b28e3d-e10f-4fa8-9484-5fd310937b8b", "id": 9666, "source": "arXiv/2014", "title": "Square Grid Points Coveraged by Connected Sources with Coverage Radius of One on a Two-Dimensional Grid"}
-{"uuid": "59c8a8db-d840-434a-a10d-6849b9fe0229", "id": 9714, "source": "arXiv/2014", "title": "Even faster integer multiplication"}
-{"uuid": "5bf07ef8-2061-4f45-a6f7-6d3e58b76594", "id": 9715, "source": "arXiv/2014", "title": "Complexity of counting subgraphs: only the boundedness of the vertex-cover number counts"}
-{"uuid": "a1a53d09-a9b8-478f-8e8e-a8c5e3dc27f8", "id": 9716, "source": "arXiv/2014", "title": "Achieving New Upper Bounds for the Hypergraph Duality Problem through Logic"}
-{"uuid": "294f7451-c19c-4f20-aaa5-de2b335a30d9", "id": 9722, "source": "arXiv/2014", "title": "About accuracy of the solution of NP-complete tasks"}
 {"uuid": "674c8146-f036-47f1-b2e4-c6e4cd7ae001", "id": 9968, "source": "arXiv/2014", "title": "SfePy - Write Your Own FE Application"}
